@@ -1,5 +1,5 @@
 # raspi_setup
-Minimal scripts to start from blank Raspbian immage
+Minimal scripts to start from blank Raspbian image
 
 To execute without cloning:
 
