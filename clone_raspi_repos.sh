@@ -11,6 +11,6 @@ do
     if [ ! -d "$repo" ]; then
         echo Creating $repo
         # git clone https://github.com/claremacrae/${repo}.git
-        git clone git clone git@github.com:claremacrae/${repo}.git
+        git clone git@github.com:claremacrae/${repo}.git
     fi
 done
